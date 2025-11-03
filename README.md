@@ -15,7 +15,11 @@ Currently: Building end-to-end analytics solutions using Python, Power BI & Mach
 - **Languages:** Python, SQL  
 - **Data Tools:** Power BI, Excel, Tableau  
 - **ML & Stats:** scikit-learn, pandas, numpy, seaborn  
-- **Databases:** MySQL, PostgreSQL  
+- **Databases:** MySQL, PostgreSQL
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- ![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ---
 
