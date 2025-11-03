@@ -34,9 +34,7 @@ Currently: Building end-to-end analytics solutions using Python, Power BI & Mach
 ---
 
 ### 📚 Projects
-- [Project A – Telecom Churn Prediction](link) – Built logistic regression & random forest models; achieved ~85 % accuracy; visualised results in Power BI dashboard.  
-- [Project B – Ibestment Analytics Dashboard](link) – Created KPIs and visual reports for sales/marketing data; enabled the business to reduce reporting time by ~60%.  
-- [Project C – LearnSphere Platform Module](link) – Developed backend analytics for an ed-tech platform, integrated student-progress tracking and teacher-engagement metrics.  
+
 
 ---
 
