@@ -39,6 +39,6 @@ Currently: Building end-to-end analytics solutions using Python, Power BI & Mach
 ---
 
 📫 **Let’s Connect**  
-- LinkedIn: [linkedin.com/in/rajatveer-singh-884134244]  
+- LinkedIn: https://www.linkedin.com/in/rajatveer-singh-884134244
 - Email: rajatveer1234@gmail.com 
 
