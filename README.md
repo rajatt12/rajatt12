@@ -37,7 +37,9 @@ Currently: Building end-to-end analytics solutions using Python, Power BI & Mach
 
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatt12&repo=YOUR_REPOSITORY&theme=tokyonight&layout=compact)
 
+---
 📫 **Let’s Connect**  
 - LinkedIn: https://www.linkedin.com/in/rajatveer-singh-884134244
 - Email: rajatveer1234@gmail.com 
