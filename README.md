@@ -26,6 +26,11 @@ Currently: Building end-to-end analytics solutions using Python, Power BI & Mach
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-1C1C1C?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1178C0?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)  
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)  [![NLTK](https://img.shields.io/badge/NLTK-3F51B5?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org/)  
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
+
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
