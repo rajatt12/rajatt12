@@ -4,7 +4,7 @@ Currently: Building end-to-end analytics solutions using Python, Power BI & Mach
 
 ---
 🔍 **What I do**  
-- Analyse business-data (telecom / retail / whatever domain) to uncover key metrics & trends.  
+- Analyse business-data (telecom / retail / IT/ Healthcare) to uncover key metrics & trends.  
 - Develop predictive models (churn, segmentation, forecasting) using Python & scikit-learn.
 - Build and deploy machine learning models — for example classification, regression, clustering, and ensemble methods — to turn historical data into actionable predictions.
 - Create interactive dashboards and reports in Power BI (or Tableau) that empower decision-makers.  
