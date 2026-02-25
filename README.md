@@ -35,16 +35,16 @@ Currently: Building end-to-end analytics solutions using Python, Power BI & Mach
 
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
 
-
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rajatt12&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajatt12&show_icons=true&theme=tokyonight" height="170"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatt12&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=rajatt12&theme=tokyonight" height="170"/>
 
-</div>
+</p>
+
 
 ---
 📫 **Let’s Connect**  
