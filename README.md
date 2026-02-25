@@ -35,6 +35,17 @@ Currently: Building end-to-end analytics solutions using Python, Power BI & Mach
 
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rajatt12&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatt12&layout=compact&theme=tokyonight"/>
+
+</div>
+
 ---
 📫 **Let’s Connect**  
 - LinkedIn: https://www.linkedin.com/in/rajatveer-singh-884134244
